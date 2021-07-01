@@ -1,0 +1,22 @@
+{
+  "name": "webformswithwebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isyed2000/WebFormsWithWebPack.git"
+  },
+  "author": "Iftikhar Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isyed2000/WebFormsWithWebPack/issues"
+  },
+  "homepage": "https://github.com/isyed2000/WebFormsWithWebPack#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
