@@ -1,3 +1,3 @@
-﻿let message: string = 'Hello World 4';
+﻿let message: string = 'Hello World 6';
 console.log(message);
 alert(message);
