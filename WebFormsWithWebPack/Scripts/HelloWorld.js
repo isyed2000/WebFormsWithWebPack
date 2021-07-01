@@ -1,2 +1,3 @@
-var message = 'Hello World 2';
+var message = 'Hello World...';
 console.log(message);
+alert(message);
