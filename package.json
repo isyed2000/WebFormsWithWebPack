@@ -16,7 +16,5 @@
     "url": "https://github.com/isyed2000/WebFormsWithWebPack/issues"
   },
   "homepage": "https://github.com/isyed2000/WebFormsWithWebPack#readme",
-  "dependencies": {
-    "typescript": "^4.3.5"
-  }
+  "dependencies": {}
 }
